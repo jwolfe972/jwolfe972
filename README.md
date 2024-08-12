@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jwolfe972
 - 👀 I’m interested in data science/ data engineering/etc. ...
-- 📫 How to reach me email:  jordanwolfe2@my.untdallas.edu...
 - Most of my repos are private so message me if you are interested
 
 <!---
